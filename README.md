@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arun Roy</h1>
+<h1 align="left">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
+</picture>  I'm Arun Roy</h1>
 
 <h2 align="center">Machine Learning Engineer | MSc Data Science | Experience & Expertise: NLP, GenAI, Deep Learning</h2>
 
@@ -22,8 +25,6 @@
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-%23E37222.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%23327BB0.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### Web Development
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,4 +63,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aktheroy&show_icons=true&locale=en&layout=compact" alt="aktheroy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aktheroy&show_icons=true&locale=en" alt="aktheroy" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktheroy&" alt="aktheroy" /></p>
