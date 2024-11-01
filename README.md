@@ -9,7 +9,7 @@
 
 <h3 align="center">Machine Learning Engineer with an MSc in Data Science and over 3 years of experience developing ML solutions. Proficient in Python, Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Model Optimisation, and Cloud Technology.</h3>
 
-- 👨‍💻 All of my projects are available at [https://aktheroy.com/](https://aktheroy.com/)
+<h3 - 👨‍💻 All of my projects are available at [https://aktheroy.com/](https://aktheroy.com/) </h3>
 - ☎️ [Schedule a call](https://calendly.com/aktheroy/call45)
 
 # 💻 Tech Stack:
