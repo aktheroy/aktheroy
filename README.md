@@ -63,4 +63,9 @@
   <a href="https://calendly.com/aktheroy/call45" target="_blank">
     <img src="https://img.icons8.com/ios-filled/64/00C853/phone.png" alt="Schedule a Call" />
   </a>
+  
+  <a href="mailto:aktheroy@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="Email" />
+  </a>
 </p>
+
