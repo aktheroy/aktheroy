@@ -59,12 +59,7 @@
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/profile/aktheroy" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HackerRank_logo.png" alt="HackerRank" width="64" height="64" />
-  </a>
-  <a href="https://leetcode.com/u/theakroy/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
-  </a>
+
   <a href="https://calendly.com/aktheroy/call45" target="_blank">
     <img src="https://img.icons8.com/ios-filled/64/00C853/phone.png" alt="Schedule a Call" />
   </a>
