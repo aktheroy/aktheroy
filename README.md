@@ -47,12 +47,25 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aktheroy&show_icons=true&locale=en&layout=compact" alt="aktheroy" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aktheroy&show_icons=true&locale=en" alt="aktheroy" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktheroy&" alt="aktheroy" /></p>
 
 ### 🌐 Connect with me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aktheroy/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aktheroy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/theakroy/)
-- ☎️  [Schedule a call](https://calendly.com/aktheroy/call45)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/aktheroy" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/2EC866/hackerrank.png" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/theakroy/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
+  </a>
+  <a href="https://calendly.com/aktheroy/call45" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/000000/phone.png" alt="Schedule a Call" />
+  </a>
+</p>
