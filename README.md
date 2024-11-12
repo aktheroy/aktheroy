@@ -21,7 +21,11 @@
 
 <!-- Schedule a Call -->
 <a href="https://calendly.com/aktheroy/call45" target="_blank" rel="noreferrer" style="text-decoration: none; font-weight: bold; font-size: 16px; margin-left: 10px;">
-  <font-awesome-icon :icon="['fas', 'phone']" style="color: green;" /> Schedule a call
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="green" width="16px" height="16px" style="vertical-align: middle; margin-right: 5px;">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M6.62 10.79a15.91 15.91 0 006.59 6.59l2.2-2.2a1 1 0 011.11-.27 11.36 11.36 0 004.37.83 1 1 0 011 1v3.44a1 1 0 01-1 1A17.93 17.93 0 013 4a1 1 0 011-1h3.45a1 1 0 011 1 11.36 11.36 0 00.83 4.37 1 1 0 01-.27 1.11l-2.2 2.2z"/>
+  </svg>
+  Schedule a call
 </a>
 
 
