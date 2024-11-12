@@ -6,7 +6,7 @@
 
 
 <h2 align="center"> Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps & Agile Specialist | Tech Consultant </h2>
-
+<h2> align = "left" 👨🏻‍💻 About Me </h2>
 <h3 align="justify">Machine Learning Engineer with an MSc in Data Science and over 3 years of experience developing ML solutions. Proficient in Python, Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Model Optimisation, and Cloud Technology.</h3>
 
 
@@ -16,12 +16,14 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.svgrepo.com/svg/475661/linkedin-color" alt="LinkedIn" height="30" width="40" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <!-- Schedule a Call -->
-  <a href="https://calendly.com/aktheroy/call45" target="_blank" rel="noreferrer" style="text-decoration: none; font-weight: bold; font-size: 16px; margin-left: 10px;">🤙🏻 Schedule a call</a>
-</p>
+<!-- Schedule a Call -->
+<a href="https://calendly.com/aktheroy/call45" target="_blank" rel="noreferrer" style="text-decoration: none; font-weight: bold; font-size: 16px; margin-left: 10px;">
+  <font-awesome-icon :icon="['fas', 'phone']" style="color: green;" /> Schedule a call
+</a>
+
 
 
 # 💻 Tech Stack:
