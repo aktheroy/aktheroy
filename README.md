@@ -6,7 +6,9 @@
 
 
 <h2 align="center"> Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps & Agile Specialist | Tech Consultant </h2>
-<h2> align = "left" 👨🏻‍💻 About Me </h2>
+
+<h2> 👨🏻‍💻 About Me </h2>
+
 <h3 align="justify">Machine Learning Engineer with an MSc in Data Science and over 3 years of experience developing ML solutions. Proficient in Python, Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Model Optimisation, and Cloud Technology.</h3>
 
 
