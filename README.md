@@ -19,13 +19,13 @@
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="34" alt="linkedin logo"  />
   </a>
-  <a href="00000000" target="_blank">
+  <a href="+44 7407720200" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="34" alt="whatsapp logo"  />
   </a>
   <a href="00000000" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="34" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/aktheroy/https://www.linkedin.com/in/aktheroy/https://www.linkedin.com/in/aktheroy/https://www.linkedin.com/in/aktheroy/" target="_blank">
+  <a href="aktheroy@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="34" alt="gmail logo"  />
   </a>
 </div>
