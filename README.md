@@ -1,11 +1,7 @@
 <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
-</picture> 
-<br clear="both">
-
+</picture> <br clear="both">
 <h1 align="left">Hi, I'm Arun Roy</h1>
-
-###
 
 <br clear="both">
 
