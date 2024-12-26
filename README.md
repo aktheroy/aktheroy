@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo" />
   </a>
-  <a href="twl:+447407720200" target="_blank">
+  <a href="tel:+447407720200" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="62" height="40" alt="whatsapp logo" />
   </a>
   <a href="https://www.youtube.com/@aktheroy" target="_blank">
