@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo" />
   </a>
-  <a href="tel:+447407720200">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="62" height="40" alt="whatsapp logo" />
+  <a href="tel:+44 7407720200" target="_blank">
+    <img src="https://img.icons8.com/ios/452/phone.png" width="62" height="40" alt="phone icon" />
   </a>
   <a href="https://www.youtube.com/@aktheroy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="40" alt="youtube logo" />
