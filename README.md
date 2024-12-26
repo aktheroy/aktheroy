@@ -10,7 +10,7 @@
 
 ###
 <br clear="both">
-<div align="left" style="display: flex; gap: 20px;">
+<div align="left">
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo" />
   </a>
