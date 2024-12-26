@@ -1,14 +1,15 @@
 <div align="left" style="display: flex; align-items: center;">
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="Hi,👋" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
   </picture>
-  <h1 style="margin-left: 10px;"> I'm Arun Roy</h1>
+  <h1 style="margin-left: 10px;">Hi, I'm Arun Roy</h1>
 </div>
 <br clear="both">
 
 <h3 align="center">Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
 
 ###
+
 <br clear="both">
 <div align="left" style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
@@ -34,15 +35,15 @@
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="34" alt="r logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="34" alt="java logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="34" alt="html5 logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="34" alt="css3 logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
 </div>
 
