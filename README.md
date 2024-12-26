@@ -1,8 +1,7 @@
 <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
-</picture> 
-<h1 align="left">👋 Hi, I'm Arun Roy</h1>
-
+<h1 align="left"> Hi, I'm Arun Roy</h1>
+</picture>
 <br clear="both">
 
 <h3 align="center">Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
