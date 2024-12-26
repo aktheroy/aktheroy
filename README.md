@@ -11,16 +11,16 @@
 ###
 <br clear="both">
 <div align="left" style="display: flex; gap: 20px;">
-  <a href="https://www.linkedin.com/in/aktheroy/" >
+  <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo" />
   </a>
-  <a href="tel:447407720200" >
+  <a href="twl:+447407720200" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="62" height="40" alt="whatsapp logo" />
   </a>
-  <a href="https://www.youtube.com/@aktheroy" >
+  <a href="https://www.youtube.com/@aktheroy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="40" alt="youtube logo" />
   </a>
-  <a href="mailto:aktheroy@outlook.com" >
+  <a href="mailto:aktheroy@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="40" alt="gmail logo" />
   </a>
 </div>
