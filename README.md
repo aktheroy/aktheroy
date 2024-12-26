@@ -23,12 +23,8 @@
   </a>
 </div>
 
-###
-
 <h3 align="left">Languages:</h3>
-
-###
-
+##
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
