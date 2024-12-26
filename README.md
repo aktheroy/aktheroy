@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo" />
   </a>
   <a href="tel:+447407720200">
-  <img src="https://img.icons8.com/ios-filled/50/00cc00/phone.png" alt="Phone icon" width="62" height="40"> 
+  <img src="https://img.icons8.com/ios-filled/50/63E6BE/phone.png" alt="iPhone call icon" width="24" height="24"> Call Me
   </a>
 
   <a href="https://www.youtube.com/@aktheroy" target="_blank">
