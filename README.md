@@ -1,8 +1,8 @@
 <div align="left" style="display: flex; align-items: center;">
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="Hi,👋" width="32" height="32">
   </picture>
-  <h1 style="margin-left: 10px;">Hi, I'm Arun Roy</h1>
+  <h1 style="margin-left: 10px;"> I'm Arun Roy</h1>
 </div>
 <br clear="both">
 
@@ -10,7 +10,7 @@
 
 ###
 <br clear="both">
-<div align="left">
+<div align="left" style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo" />
   </a>
