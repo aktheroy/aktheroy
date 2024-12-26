@@ -1,7 +1,7 @@
 <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
-</picture> <br clear="both">
-<h1 align="left">Hi, I'm Arun Roy</h1>
+</picture> 
+<h1 align="left">👋 Hi, I'm Arun Roy</h1>
 
 <br clear="both">
 
@@ -99,5 +99,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aktheroy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&custom_title=What%20i%20do%20?" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aktheroy&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
