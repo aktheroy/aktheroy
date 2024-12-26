@@ -8,7 +8,7 @@
 
 <h3 align="center">Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
 
-###
+##
 <br clear="both">
 <div align="left">
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
@@ -25,11 +25,9 @@
   </a>
 </div>
 
-###
-
+##
 <h3 align="left">Languages:</h3>
-
-###
+##
 
 <br clear="both">
 <div align="left">
@@ -46,11 +44,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">Frameworks:</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="34" alt="pandas logo"  />
@@ -72,11 +70,11 @@
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="34" alt="fastapi logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">Cloud and Deployments</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -90,7 +88,7 @@
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
 </div>
 
-###
+##
 
 <h3 align="left"></h3>
 
