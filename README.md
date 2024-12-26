@@ -1,3 +1,10 @@
+
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <div align="left" style="display: flex; align-items: center;">
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
@@ -11,7 +18,7 @@
 ###
 <br clear="both">
 <div align="left">
-  <a href="https://www.linkedin.com/in/aktheroy/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="34" alt="linkedin logo"  />
   </a>
   <a href="+44 7407720200" target="_blank">
