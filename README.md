@@ -2,13 +2,13 @@
 
 <h1 align="left">👋 Hi, I'm Arun Roy</h1>
 
-###
+####
 
 <br clear="both">
 
 <h3 align="center"> Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
 
-###
+####
 
 <br clear="both">
 
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-###
+####
 
 <br clear="both">
 
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
+####
 
 <br clear="both">
 
@@ -75,7 +75,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
+####
 
 <br clear="both">
 
@@ -97,7 +97,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-###
+####
 
 <br clear="both">
 
@@ -108,4 +108,4 @@
   <img src="https://streak-stats.demolab.com?user=aktheroy&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="146" alt="streak graph"  />
 </div>
 
-###
+####
