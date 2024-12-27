@@ -1,16 +1,18 @@
 <br clear="both">
 
-<h1 align="left">Hi, I'm Arun Roy</h1>
+<h1 align="left">👋 Hi, I'm Arun Roy</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
+<h3 align="center">💻 Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
 
 ###
 
 <br clear="both">
+
+<h4 align="left">🔗 Connect with Me</h4>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
@@ -31,9 +33,7 @@
 
 <br clear="both">
 
-<h4 align="left">Programming Languages</h4>
-
-###
+<h4 align="left">🖥️ Programming Languages</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -53,9 +53,7 @@
 
 <br clear="both">
 
-<h4 align="left">Frameworks & Tools</h4>
-
-###
+<h4 align="left">⚙️ Frameworks & Tools</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -73,15 +71,15 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" height="40" alt="huggingface logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">DevOps & Cloud</h4>
-
-###
+<h4 align="left">☁️ DevOps & Cloud</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -102,6 +100,8 @@
 ###
 
 <br clear="both">
+
+<h4 align="left">📊 Stats</h4>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aktheroy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=What%20i%20do!%20!" height="150" alt="languages graph"  />
