@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="center">💻 Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
+<h3 align="center"> Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
 
 ###
 
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:aktheroy@outlook.com" target="_blank">
+  <a href="mailto:aktheroy@outlook.com" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@aktheroy" target="_blank">
@@ -64,6 +64,8 @@
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="26" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="Hugging Face"  />
+  <img width="26" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
@@ -71,8 +73,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" height="40" alt="huggingface logo"  />
 </div>
 
 ###
