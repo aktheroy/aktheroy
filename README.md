@@ -105,7 +105,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aktheroy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=What%20i%20do!%20!" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aktheroy&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="146" alt="streak graph"  />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aktheroy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</a>
 </div>
 
 ####
