@@ -30,17 +30,10 @@ A scalable and efficient multilingual translation system powered by fine-tuned L
 ## 💻 Tech Stack
 
 ### 🤖 ML/Deep Learning 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)   ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white) ![PEFT](https://img.shields.io/badge/PEFT-greeen?style=for-the-badge&logo=huggingface&logoColor=black)
-### 📊 Data Processing
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HuggingFace Datasets](https://img.shields.io/badge/🤗%20Datasets-yellow.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)   ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white) ![PEFT](https://img.shields.io/badge/PEFT-greeen?style=for-the-badge&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### 📈 Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🔧 Backend
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+### 🎨 Frontend & 🔧 Backend
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 ### ☁️ Cloud/DevOps
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,29 +73,29 @@ docker run -p 5000:5000 translation-model
 .
 ├── Backend/
 │   ├── ml/
-│   │   ├── models/             # Saved model files for local/production use
-│   │   └── notebooks/                   # Jupyter notebooks for experiments
-│   │       ├── EDA.ipynb                # Exploratory Data Analysis
-│   │       ├── NLP pipeline.ipynb              # Data preprocessing pipeline
-│   │       ├── M2M100.ipynb                    # Base M2M100 implementation
-│   │       ├── M2M100(Lora).ipynb              # LoRA fine-tuning
-│   │       ├── 4bit FB(M2M100)+lora.ipynb      # 4-bit quantization
+│   │   ├── models/                                         # Saved model files for local/production use
+│   │   └── notebooks/                                      # Jupyter notebooks for experiments
+│   │       ├── EDA.ipynb                                   # Exploratory Data Analysis
+│   │       ├── NLP pipeline.ipynb                          # Data preprocessing pipeline
+│   │       ├── M2M100.ipynb                                # Base M2M100 implementation
+│   │       ├── M2M100(Lora).ipynb                          # LoRA fine-tuning
+│   │       ├── 4bit FB(M2M100)+lora.ipynb                  # 4-bit quantization
 │   │       ├── 4bit FB(M2m100)+lora+Greek+Hindi.ipynb      # Multi-language support
-│   │       └── Bleu_score_BFT.ipynb                # Performance evaluation
-│   ├── api/                     # REST API endpoints
-│   ├── dataset/                 # Training and evaluation datasets
-│   └── preprocessing/           # Production preprocessing scripts
+│   │       └── Bleu_score_BFT.ipynb                        # Performance evaluation
+│   ├── api/                                                # REST API endpoints
+│   ├── dataset/                                            # Training and evaluation datasets
+│   └── preprocessing/                                      # Production preprocessing scripts
 ├── Frontend/
 │   ├── Templates/
-│   │   └── index.html         # Main application template
+│   │   └── index.html                                      # Main application template
 │   └── static/
 │       ├── css/
-│       │   └── styles.css     # Custom styling
+│       │   └── styles.css                                 # Custom styling
 │       └── js/
-│           └── script.js      # Frontend logic
-├── tests/                     # Unit and integration tests
-├── Dockerfile                 # Container configuration
-└── requirements.txt           # Python dependencies
+│           └── script.js                                  # Frontend logic
+├── tests/                                                 # Unit and integration tests
+├── Dockerfile                                             # Container configuration
+└── requirements.txt                                       # Python dependencies
 
 ```
 
@@ -147,7 +140,21 @@ Content-Type: application/json
     "translated_text": "नमस्कार दोस्तों, आप कैसे हैं?"
 }
 ```
+#### Request Body 2
+```json
+{
+    "source_text": "Hi friends, how are you",
+    "source_lang": "en",
+    "target_lang": "el"
+}
+```
 
+#### Response 2
+```json
+{
+    "translated_text": "γεια σας φίλοι, πώς είστε"
+}
+```
 #### Supported Languages
 - English (en)
 - Hindi (hi)
