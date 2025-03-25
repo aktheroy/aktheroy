@@ -1,9 +1,6 @@
 <div align="center">
   
 # 🧑🏻‍💻 Arun Roy 
-
-
-<div align="center">
   
 ## ML Engineer & AI Researcher 
 
@@ -11,8 +8,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@aktheroy)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aktheroy@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/447407720200)
-
-</div>
 
 **MLOps** • **Generative AI** • **Cloud Engineering**  
 *MSc Data Science | 3+ Years Production Experience | Technical Consultant*
