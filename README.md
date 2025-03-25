@@ -1,40 +1,23 @@
-<br clear="both">
+<div align="center">
+  
+# 🧑🏻‍💻 Arun Roy | ML Engineer & AI Researcher 
 
-<h1 align="left">👋 Hi, I'm Arun Roy</h1>
+<div align="center">
 
-####
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aktheroy/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@aktheroy)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aktheroy@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/447407720200)
 
-<br clear="both">
-
-<h3 align="center"> Machine Learning Engineer | 3+ yrs | MSc Data Science | GenAI, Deep Learning, NLP | DevOps | Tech Consultant</h3>
-
-####
-
-<br clear="both">
-
-<h4 align="left">🔗 Connect with Me</h4>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aktheroy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:aktheroy@outlook.com" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/@aktheroy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="66" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://wa.me/447407720200" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="66" height="40" alt="whatsapp logo"  />
-  </a>
 </div>
 
-####
+**MLOps** • **Generative AI** • **Cloud Engineering**  
+*MSc Data Science | 3+ Years Production Experience | Technical Consultant*
 
-<br clear="both">
+</div>
 
-<h4 align="left">🖥️ Programming Languages</h4>
-
+## 🛠️ Technical Arsenal
+### 💻 Development Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="24" />
@@ -49,12 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-####
-
-<br clear="both">
-
-<h4 align="left">⚙️ Frameworks & Tools</h4>
-
+### 🤖 Machine Learning & AI
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="26" />
@@ -75,12 +53,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-####
-
-<br clear="both">
-
-<h4 align="left">☁️ DevOps & Cloud</h4>
-
+### ☁️ Cloud & DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="26" />
@@ -97,8 +70,29 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-####
+## 📈 GitHub Analytics
 
 <br clear="both">  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aktheroy&theme=meta-dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
+
+## 🚀 Recent Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Multilingual Translation System](https://github.com/aktheroy/multilingual-translation) | Real-time translation with quantized LLMs | PyTorch, LoRA, GCP |
+| [News Sentiment Analyzer](https://github.com/aktheroy/news-analyzer) | AI-powered news analysis pipeline | Transformers, FastAPI, AWS |
+| [GenAI Content Platform](https://github.com/aktheroy/genai-platform) | Enterprise generative AI solution | LangChain, React, Kubernetes |
+
+## 📚 Featured Articles
+
+- [Optimizing LLMs with 4-bit Quantization](https://medium.com/@aktheroy)
+- [Building MLOps Pipelines on GCP](https://medium.com/@aktheroy)
+- [Productionizing HuggingFace Models](https://medium.com/@aktheroy)
+
+## 🏆 Achievements
+
+- 🥇 **AWS ML Specialist** Certification
+- 🏅 **Kaggle** Competitions Expert
+- 🚀 Deployed 15+ Production ML Systems
+- 📚 Authored 50+ Technical Tutorials
