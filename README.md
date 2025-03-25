@@ -1,6 +1,7 @@
 <div align="center">
   
-# 🧑🏻‍💻 Arun Roy | ML Engineer & AI Researcher 
+# 🧑🏻‍💻 Arun Roy 
+ML Engineer & AI Researcher 
 
 <div align="center">
 
