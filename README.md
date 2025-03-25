@@ -1,8 +1,6 @@
 <div align="center">
   
-# 🧑🏻‍💻 Arun Roy 
-  
-## ML Engineer & AI Researcher 
+# 🧑🏻‍💻 Arun Roy | ML Engineer & AI Researcher 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aktheroy/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@aktheroy)
