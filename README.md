@@ -88,7 +88,3 @@
 
 ## 🏆 Achievements
 
-- 🥇 **AWS ML Specialist** Certification
-- 🏅 **Kaggle** Competitions Expert
-- 🚀 Deployed 15+ Production ML Systems
-- 📚 Authored 50+ Technical Tutorials
