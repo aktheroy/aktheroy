@@ -82,9 +82,7 @@
 
 ## 📚 Featured Articles
 
-- [Optimizing LLMs with 4-bit Quantization](https://medium.com/@aktheroy)
-- [Building MLOps Pipelines on GCP](https://medium.com/@aktheroy)
-- [Productionizing HuggingFace Models](https://medium.com/@aktheroy)
 
 ## 🏆 Achievements
+
 
