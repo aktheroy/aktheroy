@@ -1,14 +1,13 @@
 <div align="center">
   
-# 🧑🏻‍💻 Arun Roy | ML Engineer & AI Researcher 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World!+I'm+Arun+Roy.;Welcome+to+my+repository.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aktheroy/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@aktheroy)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aktheroy@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/447407720200)
 
-**MLOps** • **Generative AI** • **Cloud Engineering**  
-*MSc Data Science | 3+ Years Production Experience | Technical Consultant*
+**Generative AI** • **Cloud Engineering** • **MSc Data Science** 
 
 </div>
 
