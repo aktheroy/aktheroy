@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World!+I'm+Arun+Roy.;Welcome+to+my+repository.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+World!+I'm+Arun+Roy.;Welcome+to+my+repository.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aktheroy/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@aktheroy)
