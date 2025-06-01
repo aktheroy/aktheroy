@@ -75,7 +75,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Multilingual Translation System](https://github.com/aktheroy/multilingual-translation) | Real-time translation with quantized LLMs | PyTorch, LoRA, GCP |
+| [Multilingual Translation System](https://github.com/aktheroy/Multilingual_Translation) | Real-time translation with quantized LLMs | PyTorch, LoRA, GCP |
 | [News Sentiment Analyzer](https://github.com/aktheroy/news-analyzer) | AI-powered news analysis pipeline | Transformers, FastAPI, AWS |
 | [GenAI Content Platform](https://github.com/aktheroy/genai-platform) | Enterprise generative AI solution | LangChain, React, Kubernetes |
 
