@@ -31,8 +31,6 @@
 
 ### 🤖 Machine Learning & AI
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=numpy" height="22" alt="numpy logo"  />
-  <img width="26" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="22" alt="pytorch logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="22" alt="tensorflow logo"  />
