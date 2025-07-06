@@ -25,6 +25,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="22" alt="css3 logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=javascript" height="22" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="22" alt="mysql logo"  />
 </div>
 
 ### 🤖 Machine Learning & AI
@@ -37,7 +39,7 @@
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=opencv" height="22" alt="opencv logo"  />
   <img width="26" />
-  <img src="https://skillicons.dev/icons?i=huggingface" height="22" alt="Hugging Face"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="22" alt="scikit-learn logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=django" height="22" alt="django logo"  />
   <img width="26" />
@@ -46,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=postman" height="22" alt="postman logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=vscode" height="22" alt="vscode logo"  />
+  <img width="26" />
+  <img src="https://skillicons.dev/icons?i=linux" height="22" alt="linux logo"  />
 </div>
 
 ### ☁️ Cloud & DevOps
@@ -63,6 +67,8 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="22" alt="kubernetes logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=github" height="22" alt="github logo"  />
+  <img width="26" />
+  <img src="https://skillicons.dev/icons?i=git" height="22" alt="git logo"  />
 </div>
 
 ## 📈 GitHub Analytics
