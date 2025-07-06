@@ -9,6 +9,7 @@
 
 **Generative AI** • **Cloud Engineering** • **MSc Data Science** 
 
+
 </div>
 
 ## 🛠️ Technical Arsenal
