@@ -30,23 +30,23 @@
 
 ### 🤖 Machine Learning & AI
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px;width:40px;" alt="numpy logo"  />
   <img width="26" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" style="height:40px;width:40px;" alt="pytorch logo"  />
   <img width="26" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" style="height:40px;width:40px;" alt="tensorflow logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="height:40px;width:40px;" alt="opencv logo"  />
   <img width="26" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="Hugging Face"  />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" style="height:40px;width:40px;" alt="Hugging Face"  />
   <img width="26" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" style="height:40px;width:40px;" alt="django logo"  />
   <img width="26" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" style="height:40px;width:40px;" alt="flask logo"  />
   <img width="26" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" style="height:40px;width:40px;" alt="postman logo"  />
   <img width="26" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" style="height:40px;width:40px;" alt="vscode logo"  />
 </div>
 
 ### ☁️ Cloud & DevOps
