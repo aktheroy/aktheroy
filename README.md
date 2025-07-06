@@ -14,30 +14,30 @@
 ## 🛠️ Technical Arsenal
 ### 💻 Development Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="22" alt="python logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="22" alt="r logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="22" alt="r logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="22" alt="cplusplus logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="22" alt="html5 logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="22" alt="css3 logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="22" alt="javascript logo"  />
 </div>
 
 ### 🤖 Machine Learning & AI
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="22" alt="numpy logo"  />
+  <img src="https://skillicons.dev/icons?i=numpy" height="22" alt="numpy logo"  />
   <img width="26" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="22" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="22" alt="pytorch logo"  />
   <img width="26" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="22" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="22" alt="tensorflow logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="22" alt="opencv logo"  />
+  <img src="https://skillicons.dev/icons?i=opencv" height="22" alt="opencv logo"  />
   <img width="26" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="22" alt="Hugging Face"  />
+  <img src="https://skillicons.dev/icons?i=huggingface" height="22" alt="Hugging Face"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=django" height="22" alt="django logo"  />
   <img width="26" />
@@ -50,17 +50,17 @@
 
 ### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="22" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="22" alt="amazonwebservices logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="22" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="22" alt="googlecloud logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="22" alt="azure logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="22" alt="terraform logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform" height="22" alt="terraform logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="22" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="22" alt="docker logo"  />
   <img width="26" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="22" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="22" alt="kubernetes logo"  />
   <img width="26" />
   <img src="https://skillicons.dev/icons?i=github" height="22" alt="github logo"  />
 </div>
@@ -87,4 +87,3 @@
 
 
 ## 🏆 Achievements
-sas
