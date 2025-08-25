@@ -14,8 +14,8 @@
 ## 🛠️ Technical Arsenal
 ### 💻 Development Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="22" alt="python logo"  />
-  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=python" height="28" alt="python logo"  />
+  <img width="28" />
   <img src="https://skillicons.dev/icons?i=r" height="22" alt="r logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=cpp" height="22" alt="cplusplus logo"  />
