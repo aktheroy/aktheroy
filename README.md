@@ -15,58 +15,58 @@
 ### 💻 Development Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
 
 ### 🤖 Machine Learning & AI
 <div align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="opencv logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="scikit-learn logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="30" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 
 ### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="22" alt="amazonwebservices logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="22" alt="googlecloud logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=azure" height="22" alt="azure logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="22" alt="terraform logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=docker" height="22" alt="docker logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="22" alt="kubernetes logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=github" height="22" alt="github logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=git" height="22" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
 ## 📈 GitHub Analytics
@@ -77,15 +77,14 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Multilingual Translation System](https://github.com/aktheroy/Multilingual_Translation) | Real-time translation with quantized LLMs | PyTorch, LoRA, GCP |
-| [News Sentiment Analyzer](https://github.com/aktheroy/news-analyzer) | AI-powered news analysis pipeline | Transformers, FastAPI, AWS |
-| [GenAI Content Platform](https://github.com/aktheroy/genai-platform) | Enterprise generative AI solution | LangChain, React, Kubernetes |
-
-## 📚 Featured Articles
-
-| Title | Platform | Description |
-|-------|----------|-------------|
-| [Latest Insights & Updates](https://www.linkedin.com/feed/update/urn:li:activity:7312481408176861187/) | LinkedIn | Recent thoughts and industry insights |
+| [Fenny - Financial Agentic AI](https://github.com/aktheroy/Fenny) | AI-powered financial assistant with agentic workflows and contextual reasoning | LangGraph, RAG, APIs |
+| [News Sentiment Analyzer](https://github.com/aktheroy/news-analyzer) | End-to-end pipeline for news summarization, sentiment analysis, and comparative insights | Transformers, FastAPI, AWS |
+| [Multilingual Translation System](https://github.com/aktheroy/Multilingual_Translation) | Real-time multilingual translation using quantized LLMs and efficient fine-tuning | PyTorch, LoRA, GCP |
+| [GenAI Content Platform](https://github.com/aktheroy/genai-platform) | Scalable enterprise platform for generative AI applications and content automation | LangChain, React, Kubernetes |
 
 
 ## 🏆 Achievements
+
+- 📥 **100+ downloads** of my quantized Large Language Model (LLM) published on Hugging Face Hub, contributing to accessible and efficient AI research.  
+- 📢 Launched **Machine Learning Monday**, a LinkedIn knowledge-sharing initiative with growing engagement, aimed at simplifying ML concepts and fostering community learning.  
+
