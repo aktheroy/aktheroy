@@ -16,38 +16,38 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=r" height="22" alt="r logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="22" alt="cplusplus logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=html" height="22" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=css" height="22" alt="css3 logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="22" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="22" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
 
 ### 🤖 Machine Learning & AI
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="22" alt="pytorch logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="22" alt="tensorflow logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="22" alt="opencv logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="22" alt="scikit-learn logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=django" height="22" alt="django logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=flask" height="22" alt="flask logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=postman" height="22" alt="postman logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="22" alt="vscode logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=linux" height="22" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="opencv logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="scikit-learn logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="30000" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 
 ### ☁️ Cloud & DevOps
