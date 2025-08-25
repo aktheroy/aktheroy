@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="30000" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 
