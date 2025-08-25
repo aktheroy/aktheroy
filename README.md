@@ -69,10 +69,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
-## 📈 GitHub Analytics
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aktheroy&theme=city-lights&hide_border=true&border_radius=0&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
 ## 🚀 Recent Projects
 
 | Project | Description | Tech Stack |
